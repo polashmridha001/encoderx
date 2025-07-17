@@ -12,6 +12,7 @@ Make sure Python 3 is installed on your system.
 
 Clone the repository:
 
-git clone https://github.com/your-username/encoderx.git
+git clone https://github.com/polashmridha001/encoderx.git
+
 cd encoderx
 
