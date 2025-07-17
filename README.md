@@ -37,7 +37,7 @@ Copy
 Edit
 🔹 Enter the character or string to encode: 👉 admin
 
-📤 Encoding Result:
+```Encoding Result:
 
 🔸 URL Encode     : admin
 🔸 HTML Encode    : admin
@@ -45,7 +45,7 @@ Edit
 🔸 Hex Encode     : 61646d696e
 🔸 Unicode Encode : \u0061\u0064\u006d\u0069\u006e
 
-💡 Notes
+``` Notes
 Works on Linux, Kali, Windows, and Mac as long as Python 3 is installed.
 
 No additional installations or pip packages required.
