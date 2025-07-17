@@ -18,7 +18,8 @@ cd encoderx
 
 # Usage
 Run the tool with Python 3:
-`python3 encoderx.py
+
+`python3 encoderx.py`
 
 
 The tool will prompt:
