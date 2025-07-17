@@ -37,7 +37,8 @@ Encoding Result:
 🔸 HTML Encode    : admin
 🔸 Base64 Encode  : YWRtaW4=
 🔸 Hex Encode     : 61646d696e
-🔸 Unicode Encode : \u0061\u0064\u006d\u0069\u006e```
+🔸 Unicode Encode : \u0061\u0064\u006d\u0069\u006e 
+```
 
 
 # Notes
