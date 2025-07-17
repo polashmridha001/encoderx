@@ -16,25 +16,17 @@ git clone https://github.com/polashmridha001/encoderx.git
 
 cd encoderx
 
-Usage
+# Usage
 Run the tool with Python 3:
-
-bash
-Copy
-Edit
-python3 encoderx.py
+```python3 encoderx.py
 The tool will prompt:
 
-vbnet
-Copy
-Edit
-🔹 Enter the character or string to encode: 👉
+
+```🔹 Enter the character or string to encode: 👉
 Enter your desired input string (for example: admin), then it will display all encoded formats at once.
 
-🧪 Example Output
-yaml
-Copy
-Edit
+Example Output
+
 🔹 Enter the character or string to encode: 👉 admin
 
 ```Encoding Result:
