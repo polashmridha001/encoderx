@@ -47,6 +47,8 @@ Enter your desired input string (for example: admin), then it will display all e
 
 
 # Notes
-Works on Linux, Kali, Windows, and Mac as long as Python 3 is installed.\n
-No additional installations or pip packages required.\n
+Works on Linux, Kali, Windows, and Mac as long as Python 3 is installed.
+
+No additional installations or pip packages required.
+
 Press Ctrl+C to exit gracefully anytime.
