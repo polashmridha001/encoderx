@@ -26,7 +26,7 @@ python3 encoderx.py
 The tool will prompt:
 
 ```
-Enter the character or string to encode: 👉
+🔹 Enter the character or string to encode: 👉
 ```
 
 Enter your desired input string (for example: admin), then it will display all encoded formats at once.
@@ -34,9 +34,9 @@ Enter your desired input string (for example: admin), then it will display all e
 # Example Output
 
 ```
-Enter the character or string to encode: 👉 admin
+🔹 Enter the character or string to encode: 👉 admin
 
-Encoding Result:
+📤 Encoding Result:
 
 🔸 URL Encode     : admin
 🔸 HTML Encode    : admin
@@ -47,8 +47,6 @@ Encoding Result:
 
 
 # Notes
-Works on Linux, Kali, Windows, and Mac as long as Python 3 is installed.
-
-No additional installations or pip packages required.
-
+Works on Linux, Kali, Windows, and Mac as long as Python 3 is installed.\n
+No additional installations or pip packages required.\n
 Press Ctrl+C to exit gracefully anytime.
